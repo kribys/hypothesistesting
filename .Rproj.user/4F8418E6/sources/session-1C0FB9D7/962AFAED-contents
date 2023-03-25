@@ -1,3 +1,0 @@
-url <- "https://statisticsbyjim.com/wp-content/uploads/2020/09/HypothesisTestingDatasets.zip"
-temp <- tempfile()
-download.file(url, temp)
